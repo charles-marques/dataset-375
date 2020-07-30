@@ -8,5 +8,5 @@ O dataset foi originalmente disponibilizado por Allamanis, Sutton (2013), e cont
 Os projetos foram aleatoriamente selecionados e a quantidade 375 é a amostra para garantia de 95% de confiança e apenas 5% de margem de erro em relação ao dataset original com 14.436, sendo, portanto, uma amostra confiável do todo.
 
 
-##References:
+## References 
 ALLAMANIS, Miltiadis; SUTTON, Charles. Mining source code repositories at massive scale using language modeling. In: 2013 10th Working Conference on Mining Software Repositories (MSR). IEEE, 2013. p. 207-216.
